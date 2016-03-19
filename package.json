@@ -1,0 +1,13 @@
+{
+  "name": "hey-anonymous-slack-interface.",
+  "description": "Hey. The Anonymous Slack Interface.",
+  "author": "Luke Slattery <lukeslattery@me.com>",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "*",
+    "gulp-changed": "*",
+    "gulp-cssbeautify": "^0.1.3",
+    "gulp-sass": "*"
+  },
+  "engine": "node >= 0.4.1"
+}
